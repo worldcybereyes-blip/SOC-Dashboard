@@ -1,0 +1,9 @@
+{
+  "name": "soc-playbook-n8n",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SOC alert triage and containment playbook for n8n (used only by the no-Docker option).",
+  "scripts": { "mock": "node mock/mock_server.js" },
+  "engines": { "node": ">=20.19 <25" },
+  "dependencies": { "n8n": "latest" }
+}

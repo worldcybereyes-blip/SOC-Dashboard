@@ -1,0 +1,14 @@
+{
+  "alert_id": "WZ-2026-100423",
+  "timestamp": "2026-10-13T09:12:44Z",
+  "severity": "high",
+  "rule": {
+    "id": "92213",
+    "description": "Executable dropped in user profile and beaconing to external host"
+  },
+  "source_ip": "10.20.30.45",
+  "destination_ip": "185.220.101.34",
+  "file_hash": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+  "hostname": "FIN-WS-0117",
+  "endpoint_id": "014"
+}

@@ -1,0 +1,14 @@
+{
+  "alert_id": "WZ-2026-100424",
+  "timestamp": "2026-10-13T09:40:02Z",
+  "severity": "medium",
+  "rule": {
+    "id": "92210",
+    "description": "Unsigned binary executed from temp directory"
+  },
+  "source_ip": "10.20.30.52",
+  "destination_ip": "8.8.8.8",
+  "file_hash": "0000000000d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f275a021b",
+  "hostname": "HR-LT-0042",
+  "endpoint_id": "027"
+}
